@@ -15,3 +15,7 @@ AI Agent for what to eat
 4. Get festival list and compare to current date
 5. Query food based on parameters input from user
 6. Return based on constraints
+
+# Resources used
+1. To understand Google Vertex Agent - https://www.youtube.com/watch?v=GCmGxBl3RLY
+2. 
